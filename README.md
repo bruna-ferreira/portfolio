@@ -1,3 +1,3 @@
-# portfolio_lain.github.io
+https://bruna-ferreira.github.io/portfolio/
 
 portfólio_illustration
