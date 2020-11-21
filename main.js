@@ -1,0 +1,1 @@
+var frase = "Bem vindo ao meu portfólio de ilustrações";
