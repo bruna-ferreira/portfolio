@@ -1,1 +1,1 @@
-var frase = "Bem vindo ao meu portfólio de ilustrações";
+alert("Bem vindo ao meu portfólio de ilustrações");
